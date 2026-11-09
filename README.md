@@ -4,7 +4,7 @@ Solutions to technical take-home exercises. Each folder is a self-contained proj
 
 | Exercise | Language | Build | What it covers |
 |----------|----------|-------|----------------|
-| [SimpleCache review and Hierarchy filter](kothlin_simple_cache/) | Kotlin | Gradle | Reviewing a concurrent TTL cache: issues proven by tests, a corrected version, and a single-pass tree filter |
+| [SimpleCache review and Hierarchy filter](kotlin_simple_cache/) | Kotlin | Gradle | Reviewing a concurrent TTL cache: issues proven by tests, a corrected version, and a single-pass tree filter |
 
 ## How each exercise is approached
 
